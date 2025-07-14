@@ -1,1 +1,1 @@
-print("Merhaba GitHub!")
+print("Merhaba yağmur!")
